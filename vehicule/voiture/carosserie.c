@@ -1,1 +1,1 @@
-carosserie = break
+carosserie = cabriolet

@@ -1,1 +1,1 @@
-moteur = diesel
+moteur = essence

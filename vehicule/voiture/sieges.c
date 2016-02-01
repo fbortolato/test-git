@@ -1,1 +1,1 @@
-sieges = 5
+sieges = 2
